@@ -1,1 +1,1 @@
-console.log('Init2222');
+console.log('Init1234567');
